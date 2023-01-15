@@ -300,8 +300,8 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 
 @media (max-width: 1000px) {
   fondos {
-    height: 600px;
-    width: auto;
+    height: auto;
+    max-width: 600px;
     
   }
 }
