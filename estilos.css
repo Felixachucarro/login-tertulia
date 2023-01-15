@@ -289,7 +289,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 
-@media (max-width: 1500px) {
+@media (max-width: 750px) {
   .glass {
     margin: 49% 32% 5% 29%;
   }
